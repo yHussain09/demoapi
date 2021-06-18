@@ -1,0 +1,396 @@
+{
+	"info": {
+		"_postman_id": "2a98b69c-3ddc-4c04-a98e-aa6b06a33a92",
+		"name": "spring security demo api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "User",
+			"item": [
+				{
+					"name": "Get All Users",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ5YXNpciIsImV4cCI6MTYyMjgwODc1MX0.N6cGzgvbzM9wgV0RwpOBP7QTUtonfvru_Q5LKkoA_Bk",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n            \"createdBy\": \"yasir\",\n            \"createdDate\": \"2010-01-02T23:30:43.000+00:00\",\n            \"modifiedBy\": \"yasir\",\n            \"modifiedDate\": \"2010-01-02T23:30:43.000+00:00\",\n            \"username\": \"osama\",\n            \"password\": \"abc123\",\n            \"firstName\": \"Osamaaaaa\",\n            \"lastName\": \"Afzal\",\n            \"email\": \"osama.afzal@email.com\",\n            \"authorities\": [],\n            \"accountNonExpired\": true,\n            \"accountNonLocked\": true,\n            \"credentialsNonExpired\": true,\n            \"enabled\": true\n}\n"
+						},
+						"url": {
+							"raw": "localhost:8080/api/user/",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"user",
+								""
+							]
+						},
+						"description": "localhost:8080/api/user/"
+					},
+					"response": []
+				},
+				{
+					"name": "Save User",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"username\": \"yasir\",\r\n    \"password\": \"abc123\",\r\n    \"firstName\": \"Yasir\",\r\n    \"lastName\": \"Hussain\",\r\n    \"email\": \"yasir.hussain@email.com\",\r\n    \"activated\": \"Y\",\r\n    \"phoneNumber\": \"1234567\",\r\n    \"enabled\": \"Y\",\r\n    \"lastPasswordResetDate\": null,\r\n    \"authorities\": []\r\n\t\r\n}"
+						},
+						"url": {
+							"raw": "localhost:8080/api/user/",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"user",
+								""
+							]
+						},
+						"description": "localhost:8080/api/user/"
+					},
+					"response": []
+				},
+				{
+					"name": "Update User",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n      \"createdBy\": \"anonymousUser\",\r\n      \"createdDate\": \"2021-06-09T07:29:37.382+00:00\",\r\n      \"modifiedBy\": \"anonymousUser\",\r\n      \"modifiedDate\": \"2021-06-09T07:29:37.382+00:00\",\r\n      \"id\": 1,\r\n      \"username\": \"yasir\",\r\n      \"password\": \"$2a$10$KCN3XVyqSHwSJQHQW2CwtuB.zY0UzcWf8qH4LCyJlogDNISFcifxq\",\r\n      \"firstName\": \"Yasir\",\r\n      \"lastName\": \"Hussain\",\r\n      \"email\": \"yasir.hussain@email.com\",\r\n      \"activated\": \"Y\",\r\n      \"phoneNumber\": \"1234567\",\r\n      \"enabled\": \"Y\",\r\n      \"lastPasswordResetDate\": null,\r\n      \"authorities\": []\r\n    }"
+						},
+						"url": {
+							"raw": "localhost:8080/api/user/",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"user",
+								""
+							]
+						},
+						"description": "localhost:8080/api/user/"
+					},
+					"response": []
+				},
+				{
+					"name": "Delete User By ID",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "localhost:8080/api/user/{id}",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"user",
+								"{id}"
+							]
+						},
+						"description": "localhost:8080/api/user/{id}"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Authority",
+			"item": [
+				{
+					"name": "Save Authority",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"userAuthority\": \"USER\"\n}"
+						},
+						"url": {
+							"raw": "localhost:8080/api/authority/",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"authority",
+								""
+							]
+						},
+						"description": "localhost:8080/api/authority/"
+					},
+					"response": []
+				},
+				{
+					"name": "Get All Authorities",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:8080/api/authority/",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"authority",
+								""
+							]
+						},
+						"description": "localhost:8080/api/authority/"
+					},
+					"response": []
+				},
+				{
+					"name": "Get Authority By ID",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:8080/api/authority/1",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"authority",
+								"1"
+							]
+						},
+						"description": "localhost:8080/api/authority/{id}"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Privilege",
+			"item": [
+				{
+					"name": "Get All Privileges",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:8080/api/privilege/",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"privilege",
+								""
+							]
+						},
+						"description": "localhost:8080/api/privilege/"
+					},
+					"response": []
+				},
+				{
+					"name": "Save Privilege",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"privilege\": \"READ\"\n}"
+						},
+						"url": {
+							"raw": "localhost:8080/api/privilege/",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"privilege",
+								""
+							]
+						},
+						"description": "localhost:8080/api/privilege/"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "UserAuthority",
+			"item": [
+				{
+					"name": "Save UserAuthority",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"userId\":1,\n\t\"authorityId\":1\n}"
+						},
+						"url": {
+							"raw": "localhost:8080/api/userAuthority/",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"userAuthority",
+								""
+							]
+						},
+						"description": "localhost:8080/api/userAuthority/"
+					},
+					"response": []
+				},
+				{
+					"name": "Get All UserAuthorities",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:8080/api/userAuthority/",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"userAuthority",
+								""
+							]
+						},
+						"description": "localhost:8080/api/userAuthority/"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "AuthorityPrivilege",
+			"item": [
+				{
+					"name": "Get All AuthorityPrivileges",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:8080/api/authorityPrivilege/",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"authorityPrivilege",
+								""
+							]
+						},
+						"description": "localhost:8080/api/authorityPrivilege/"
+					},
+					"response": []
+				},
+				{
+					"name": "Save AuthorityPrivilege",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"authorityId\":1,\n\t\"privilegeId\":1\n}"
+						},
+						"url": {
+							"raw": "localhost:8080/api/authorityPrivilege/",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"authorityPrivilege",
+								""
+							]
+						},
+						"description": "localhost:8080/api/authorityPrivilege/"
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
