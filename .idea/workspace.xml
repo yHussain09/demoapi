@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13c08cc9-ada4-41c1-afbb-4f2c0ed9cee1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="demo" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="demo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="demo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1t1P3lH5XHRqZfUXq8nModMzzh2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GlobalConfigFieldKeys.class" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/" />
+                <option name="value" value="CB57C8DCBF177F580AA7C53D41DDF567" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/api/user/" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;username&quot;: &quot;osama&quot;,&#10;  &quot;password&quot;: &quot;abc123&quot;,&#10;  &quot;firstName&quot;: &quot;Osama&quot;,&#10;  &quot;lastName&quot;: &quot;Afzal&quot;,&#10;  &quot;email&quot;: &quot;osama.afzal@email.com&quot;,&#10;  &quot;authorities&quot;: [],&#10;  &quot;accountNonExpired&quot;: true,&#10;  &quot;accountNonLocked&quot;: true,&#10;  &quot;credentialsNonExpired&quot;: true,&#10;  &quot;enabled&quot;: true&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/" />
+                <option name="value" value="247C98F0A48945F8A9A61661F80E85DC" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/api/user/" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;username&quot;: &quot;osama&quot;,&#10;  &quot;password&quot;: &quot;abc123&quot;,&#10;  &quot;firstName&quot;: &quot;Osama&quot;,&#10;  &quot;lastName&quot;: &quot;Afzal&quot;,&#10;  &quot;email&quot;: &quot;osama.afzal@email.com&quot;,&#10;  &quot;authorities&quot;: [],&#10;  &quot;accountNonExpired&quot;: true,&#10;  &quot;accountNonLocked&quot;: true,&#10;  &quot;credentialsNonExpired&quot;: true,&#10;  &quot;enabled&quot;: true&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/" />
+                <option name="value" value="3F8CB7873EF579BBEA779AA0EC31C10E" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/api/user/" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;username&quot;: &quot;osama&quot;,&#10;  &quot;password&quot;: &quot;abc123&quot;,&#10;  &quot;firstName&quot;: &quot;Osama&quot;,&#10;  &quot;lastName&quot;: &quot;Afzal&quot;,&#10;  &quot;email&quot;: &quot;osama.afzal@email.com&quot;,&#10;  &quot;authorities&quot;: [],&#10;  &quot;accountNonExpired&quot;: true,&#10;  &quot;accountNonLocked&quot;: true,&#10;  &quot;credentialsNonExpired&quot;: true,&#10;  &quot;enabled&quot;: true&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/" />
+                <option name="value" value="22266D1E487BE7E0A3A14B02E75C7140" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/api/user/" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;username&quot;: &quot;osama&quot;,&#10;  &quot;password&quot;: &quot;abc123&quot;,&#10;  &quot;firstName&quot;: &quot;Osama&quot;,&#10;  &quot;lastName&quot;: &quot;Afzal&quot;,&#10;  &quot;email&quot;: &quot;osama.afzal@email.com&quot;,&#10;  &quot;authorities&quot;: [],&#10;  &quot;accountNonExpired&quot;: true,&#10;  &quot;accountNonLocked&quot;: true,&#10;  &quot;credentialsNonExpired&quot;: true,&#10;  &quot;enabled&quot;: true&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/" />
+                <option name="value" value="22266D1E487BE7E0A3A14B02E75C7140" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/error" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/api/user/" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;username&quot;: &quot;osama&quot;,&#10;  &quot;password&quot;: &quot;abc123&quot;,&#10;  &quot;firstName&quot;: &quot;Osama&quot;,&#10;  &quot;lastName&quot;: &quot;Afzal&quot;,&#10;  &quot;email&quot;: &quot;osama.afzal@email.com&quot;,&#10;  &quot;authorities&quot;: [],&#10;  &quot;accountNonExpired&quot;: true,&#10;  &quot;accountNonLocked&quot;: true,&#10;  &quot;credentialsNonExpired&quot;: true,&#10;  &quot;enabled&quot;: true&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/api/user/" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle  bootRun --debug-jvm" />
+      <command value="gradle bootJar" />
+      <command value="gradle clean" />
+      <command value="gradle  bootRun" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration name="demo [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="demo [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DemoApplication#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/DemoApplication.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="DemoApplication#2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/DemoApplication.http" index="2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="DemoApplication#3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/DemoApplication.http" index="3" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo_main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.DemoApplication#1" />
+        <item itemvalue="HTTP Request.DemoApplication#3" />
+        <item itemvalue="HTTP Request.DemoApplication#2" />
+        <item itemvalue="Gradle.demo [bootRun]" />
+        <item itemvalue="Gradle.demo [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13c08cc9-ada4-41c1-afbb-4f2c0ed9cee1" name="Default Changelist" comment="" />
+      <created>1621933427458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621933427458</updated>
+      <workItem from="1622542090871" duration="620000" />
+      <workItem from="1622542993429" duration="5649000" />
+      <workItem from="1622608053677" duration="8117000" />
+      <workItem from="1622617688196" duration="16368000" />
+      <workItem from="1622642455321" duration="13594000" />
+      <workItem from="1622693632516" duration="20985000" />
+      <workItem from="1622781285176" duration="296000" />
+      <workItem from="1622785180278" duration="10938000" />
+      <workItem from="1623048983640" duration="16315000" />
+      <workItem from="1623125894729" duration="25458000" />
+      <workItem from="1623160893398" duration="13905000" />
+      <workItem from="1623212077463" duration="20917000" />
+      <workItem from="1623298100104" duration="19801000" />
+      <workItem from="1623385926886" duration="17329000" />
+      <workItem from="1623652559588" duration="14647000" />
+      <workItem from="1623681905115" duration="12077000" />
+      <workItem from="1623731613554" duration="19966000" />
+      <workItem from="1623826396590" duration="17136000" />
+      <workItem from="1623910508769" duration="18446000" />
+      <workItem from="1623991794775" duration="9608000" />
+      <workItem from="1624035624628" duration="4150000" />
+    </task>
+    <task id="LOCAL-00001" summary="First commit in master branch:&#10;- JWT Authentication.&#10;- JWT Authorization (User access based on user's roles and permissions).&#10;- Audit Logs">
+      <created>1624038968859</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624038968859</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit in master branch:&#10;- JWT Authentication.&#10;- JWT Authorization (User access based on user's roles and permissions).&#10;- Audit Logs">
+      <created>1624039053854</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624039053854</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First commit in master branch:&#10;- JWT Authentication.&#10;- JWT Authorization (User access based on user's roles and permissions).&#10;- Audit Logs">
+      <created>1624039132771</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1624039132771</updated>
+    </task>
+    <task id="LOCAL-00004" summary="postman collection">
+      <created>1624039279026</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1624039279026</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add mysql scripts">
+      <created>1624039508406</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624039508406</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit in master branch:&#10;- JWT Authentication.&#10;- JWT Authorization (User access based on user's roles and permissions).&#10;- Audit Logs" />
+    <MESSAGE value="postman collection" />
+    <MESSAGE value="add mysql scripts" />
+    <option name="LAST_COMMIT_MESSAGE" value="add mysql scripts" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="688" y="321" width="497" height="217" key="#Assign_Data_Sources" timestamp="1623165583626">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="619" y="321" width="497" height="217" key="#Assign_Data_Sources/0.0.1440.860@0.0.1440.860" timestamp="1623054528039" />
+    <state x="688" y="321" key="#Assign_Data_Sources/0.0.1600.860@0.0.1600.860" timestamp="1623165583626" />
+    <state x="685" y="293" key="#Notifications" timestamp="1624039320116">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="685" y="293" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1624039320116" />
+    <state x="174" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623298857149">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="174" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1623298857149" />
+    <state x="186" y="80" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1622643973285" />
+    <state x="525" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1623930379276">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="525" y="114" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1623930379276" />
+    <state x="560" y="109" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1622649123401" />
+    <state x="583" y="114" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1623688462313" />
+    <state x="373" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1623687243234">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="373" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1623687243234" />
+    <state x="528" y="133" width="1236" height="594" key="#xdebugger.evaluate" timestamp="1624036930751">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="107" y="168" width="1236" height="594" key="#xdebugger.evaluate/0.0.1440.860@0.0.1440.860" timestamp="1624002266086" />
+    <state x="507" y="127" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1622662095537" />
+    <state x="528" y="133" key="#xdebugger.evaluate/0.0.1600.860@0.0.1600.860" timestamp="1624036930751" />
+    <state x="425" y="0" key="CommitChangelistDialog2" timestamp="1624039507616">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="425" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1624039507616" />
+    <state width="816" height="466" key="DebuggerActiveHint" timestamp="1624037066704">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="657" height="676" key="DebuggerActiveHint/0.0.1440.860@0.0.1440.860" timestamp="1623930595914" />
+    <state width="670" height="447" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1622662065936" />
+    <state width="816" height="466" key="DebuggerActiveHint/0.0.1600.860@0.0.1600.860" timestamp="1624037066704" />
+    <state x="556" y="171" key="FileChooserDialogImpl" timestamp="1624038093298">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="500" y="171" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1623326396760" />
+    <state x="556" y="171" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1624038093298" />
+    <state width="1557" height="266" key="GridCell.Tab.0.bottom" timestamp="1624038740959">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1397" height="329" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1624008543985" />
+    <state width="1493" height="252" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622663181769" />
+    <state width="1557" height="266" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1624038740959" />
+    <state width="1557" height="266" key="GridCell.Tab.0.center" timestamp="1624038740958">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1397" height="329" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1624008543985" />
+    <state width="1493" height="252" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1622663181769" />
+    <state width="1557" height="266" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1624038740958" />
+    <state width="1557" height="266" key="GridCell.Tab.0.left" timestamp="1624038740958">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1397" height="329" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1624008543984" />
+    <state width="1493" height="252" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1622663181768" />
+    <state width="1557" height="266" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1624038740958" />
+    <state width="1557" height="266" key="GridCell.Tab.0.right" timestamp="1624038740959">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1397" height="329" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1624008543985" />
+    <state width="1493" height="252" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1622663181769" />
+    <state width="1557" height="266" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1624038740959" />
+    <state width="1557" height="266" key="GridCell.Tab.1.bottom" timestamp="1624038740959">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1397" height="329" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1624008543985" />
+    <state width="1493" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622663181771" />
+    <state width="1557" height="266" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1624038740959" />
+    <state width="1557" height="266" key="GridCell.Tab.1.center" timestamp="1624038740959">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1397" height="329" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1624008543985" />
+    <state width="1493" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1622663181770" />
+    <state width="1557" height="266" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1624038740959" />
+    <state width="1557" height="266" key="GridCell.Tab.1.left" timestamp="1624038740959">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1397" height="329" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1624008543985" />
+    <state width="1493" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1622663181770" />
+    <state width="1557" height="266" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1624038740959" />
+    <state width="1557" height="266" key="GridCell.Tab.1.right" timestamp="1624038740959">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1397" height="329" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1624008543985" />
+    <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1622663181770" />
+    <state width="1557" height="266" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1624038740959" />
+    <state width="1557" height="266" key="GridCell.Tab.2.bottom" timestamp="1624038740959">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1397" height="329" key="GridCell.Tab.2.bottom/0.0.1440.860@0.0.1440.860" timestamp="1624008543986" />
+    <state width="1493" height="252" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622663181772" />
+    <state width="1557" height="266" key="GridCell.Tab.2.bottom/0.0.1600.860@0.0.1600.860" timestamp="1624038740959" />
+    <state width="1557" height="266" key="GridCell.Tab.2.center" timestamp="1624038740959">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1397" height="329" key="GridCell.Tab.2.center/0.0.1440.860@0.0.1440.860" timestamp="1624008543986" />
+    <state width="1493" height="252" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1622663181771" />
+    <state width="1557" height="266" key="GridCell.Tab.2.center/0.0.1600.860@0.0.1600.860" timestamp="1624038740959" />
+    <state width="1557" height="266" key="GridCell.Tab.2.left" timestamp="1624038740959">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1397" height="329" key="GridCell.Tab.2.left/0.0.1440.860@0.0.1440.860" timestamp="1624008543985" />
+    <state width="1493" height="252" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1622663181771" />
+    <state width="1557" height="266" key="GridCell.Tab.2.left/0.0.1600.860@0.0.1600.860" timestamp="1624038740959" />
+    <state width="1557" height="266" key="GridCell.Tab.2.right" timestamp="1624038740959">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1397" height="329" key="GridCell.Tab.2.right/0.0.1440.860@0.0.1440.860" timestamp="1624008543986" />
+    <state width="1493" height="252" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1622663181771" />
+    <state width="1557" height="266" key="GridCell.Tab.2.right/0.0.1600.860@0.0.1600.860" timestamp="1624038740959" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1624038440533">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1622543189107" />
+    <state x="0" y="0" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1624038440533" />
+    <state x="441" y="171" width="540" height="524" key="StructurePopup" timestamp="1622618325566">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="441" y="171" width="540" height="524" key="StructurePopup/0.0.1440.860@0.0.1440.860" timestamp="1622618325566" />
+    <state width="498" height="477" key="SwitcherDM" timestamp="1623754379547">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="498" height="477" key="SwitcherDM/0.0.1440.860@0.0.1440.860" timestamp="1623754379547" />
+    <state width="532" height="428" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1622644464993" />
+    <state width="554" height="477" key="SwitcherDM/0.0.1600.860@0.0.1600.860" timestamp="1623701769386" />
+    <state x="686" y="345" key="VCS.EditChangelistDialog" timestamp="1624039449450">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="686" y="345" key="VCS.EditChangelistDialog/0.0.1600.860@0.0.1600.860" timestamp="1624039449450" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1624039518236">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1624039518236" />
+    <state width="728" height="438" key="XDebugger.FullValuePopup" timestamp="1623746618698">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="728" height="438" key="XDebugger.FullValuePopup/0.0.1440.860@0.0.1440.860" timestamp="1623746618698" />
+    <state x="486" y="195" width="468" height="358" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1622546087839">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="486" y="195" width="468" height="358" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1440.860@0.0.1440.860" timestamp="1622546087839" />
+    <state x="563" y="203" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1622618501138">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="563" y="203" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1440.860@0.0.1440.860" timestamp="1622618501138" />
+    <state x="92" y="92" width="1256" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1623240342696">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="92" y="92" width="1256" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.860@0.0.1440.860" timestamp="1623240342696" />
+    <state x="325" y="40" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1623910840169">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="325" y="40" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.860@0.0.1440.860" timestamp="1623910840169" />
+    <state x="347" y="38" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1622657336428" />
+    <state x="361" y="40" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1600.860@0.0.1600.860" timestamp="1623167309703" />
+    <state x="427" y="165" width="585" height="554" key="find.popup" timestamp="1623238393696">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="427" y="165" width="585" height="554" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1623238393696" />
+    <state x="474" y="165" width="650" height="530" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1623161681268" />
+    <state x="515" y="177" key="refactoring.ChangeSignatureDialog" timestamp="1623928034667">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="515" y="177" key="refactoring.ChangeSignatureDialog/0.0.1440.860@0.0.1440.860" timestamp="1623928034667" />
+    <state x="376" y="195" key="run.anything.popup" timestamp="1623397320928">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="376" y="195" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1623397320928" />
+    <state x="418" y="83" width="747" height="676" key="search.everywhere.popup" timestamp="1624036775203">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="376" y="83" width="672" height="676" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1623997760630" />
+    <state x="401" y="80" width="715" height="648" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1622661181953" />
+    <state x="418" y="83" width="747" height="676" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1624036775203" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/demo/auth/handlers/JwtAccessDeniedHandler.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/demo/auth/handlers/JwtAccessDeniedHandler.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/demo/auth/JwtAuthenticationEntryPoint.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-web/5.4.6/16a7ef232c972ba0b1e18d90ee6e5575f2f3659a/spring-security-web-5.4.6-sources.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.java</url>
+          <line>312</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/demo/auth/handlers/JwtAccessDeniedHandler.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/demo/auth/jwt/JWTFilter.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/demo/domain/services/UserService.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/demo/rest/controllers/UserAuthenticationController.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/demo/rest/controllers/UserAuthenticationController.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/demo/rest/controllers/UserAuthenticationController.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/demo/rest/controllers/UserAuthenticationController.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/demo/domain/services/UserService.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/5.3.6/b4c4e96b338c8cafd96b3595359325396abdad1f/spring-expression-5.3.6-sources.jar!/org/springframework/expression/spel/ast/MethodReference.java</url>
+          <line>212</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/5.3.6/b4c4e96b338c8cafd96b3595359325396abdad1f/spring-expression-5.3.6-sources.jar!/org/springframework/expression/MethodResolver.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/5.3.6/b4c4e96b338c8cafd96b3595359325396abdad1f/spring-expression-5.3.6-sources.jar!/org/springframework/expression/spel/ast/MethodReference.java</url>
+          <line>217</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/5.3.6/b4c4e96b338c8cafd96b3595359325396abdad1f/spring-expression-5.3.6-sources.jar!/org/springframework/expression/spel/ast/MethodReference.java</url>
+          <line>218</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/5.3.6/b4c4e96b338c8cafd96b3595359325396abdad1f/spring-expression-5.3.6-sources.jar!/org/springframework/expression/spel/ast/MethodReference.java</url>
+          <line>220</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.4.6/173f486d585ca0d0918e4d1ff3343475da89cc09/spring-security-core-5.4.6-sources.jar!/org/springframework/security/access/expression/SecurityExpressionRoot.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.4.6/173f486d585ca0d0918e4d1ff3343475da89cc09/spring-security-core-5.4.6-sources.jar!/org/springframework/security/access/expression/SecurityExpressionRoot.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/demo/aspect/LoggingAspect.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo typeName="org.springframework.core.convert.TypeDescriptor" fieldName="resolvableType" />
+        <PinnedItemInfo typeName="java.lang.reflect.Method" fieldName="root" />
+        <PinnedItemInfo typeName="org.springframework.security.core.context.SecurityContextImpl" fieldName="authentication" />
+        <PinnedItemInfo typeName="org.springframework.security.access.expression.method.MethodSecurityEvaluationContext" fieldName="beanResolver" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
